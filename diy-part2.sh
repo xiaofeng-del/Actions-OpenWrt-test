@@ -34,5 +34,4 @@ sed -i "s/luci-theme-bootstrap/luci-theme-design/g" feeds/luci/collections/luci/
 
 #sed -i 's/KERNEL_PATCHVER:=6.1/KERNEL_PATCHVER:=6.6/g' target/linux/x86/Makefile
 #新加仓库
-sed -i '1i src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
-sed -i '2i src-git small https://github.com/kenzok8/small' feeds.conf.default
+sed -i '$a src-git smpackage https://github.com/xiaofeng-del/small-package' feeds.conf.default
