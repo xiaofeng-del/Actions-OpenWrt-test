@@ -10,7 +10,7 @@
 
 
 ## 超纯净版X86_64 OpenWrt
-已包含插件wireguard、ttyd终端、openclash、全能推送、dns-go、upnp、openvpn服务器、带宽监控
+已包含插件wireguard、ttyd终端、openclash、全能推送、dns-go、upnp、docker、openvpn服务器、带宽监控
 ![微信截图_20240621001813](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/0d651001-4b39-4dcf-8a94-53f8dbab4084)
 
 ![微信截图_20240621001929](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/94077af1-8cc7-4c84-bce0-18cb6e606528)![微信截图_20240621001935](https://github.com/xiaofeng-del/Actions-OpenWrt/assets/173141866/048a311c-249c-4c18-ae78-e069df31e021)
