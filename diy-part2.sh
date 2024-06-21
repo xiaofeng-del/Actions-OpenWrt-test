@@ -16,7 +16,7 @@
 rm -rf feeds/luci/themes/luci-theme-argon
 rm -rf feeds/luci/themes/luci-theme-design
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git feeds/luci/themes/luci-theme-argon
-#git clone https://github.com/gngpp/luci-theme-design.git feeds/luci/themes/luci-theme-design
+git clone https://github.com/gngpp/luci-theme-design.git feeds/luci/themes/luci-theme-design
 
 rm -rf feeds/luci/applications/luci-app-argon-config
 rm -rf feeds/luci/applications/luci-app-design-config
